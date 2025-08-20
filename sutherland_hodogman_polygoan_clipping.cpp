@@ -31,3 +31,4 @@ int main() {
     closegraph();
     return 0;
 }
+/* 3 10 60 350 150 10 300 */
